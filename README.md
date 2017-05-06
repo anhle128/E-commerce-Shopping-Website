@@ -1,1 +1,2 @@
-# pankajkalania.github.io
+Lifestyle store
+Demo project for shopping. 
